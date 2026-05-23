@@ -35,10 +35,10 @@ Os dados transformados são salvos em um novo arquivo CSV.
 
 
 ## Como executar
-- Instale a biblioteca Pandas, caso não a tenha ainda:
+# Instale a biblioteca Pandas, caso não a tenha ainda:
 pip install pandas
 
--Execute o script
+# Execute o script
 python ETL.py
 
--O arquivo clientes_transformados.csv será gerado automaticamente.
+# O arquivo clientes_transformados.csv será gerado automaticamente.
