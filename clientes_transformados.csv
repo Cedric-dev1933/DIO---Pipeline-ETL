@@ -1,0 +1,7 @@
+id,name,balance,age,categoria,recomendacao
+1, Roger,1500,35,Classificação: Intermediário,Recomendação: Educação financeira
+2, Elizabeth,4600,29,Classificação: Intermediário,Recomendação: Educação financeira
+3, Bill,7000,58,Classificação: Premium,"Recomendação: Talvez seja interessante começar a investir na sua aposentadoria, Bill"
+4, Scott,2500,26,Classificação: Intermediário,Recomendação: Educação financeira
+5, Amanda,3100,27,Classificação: Intermediário,Recomendação: Educação financeira
+6, George,14000,64,Classificação: Premium,"Recomendação: Talvez seja interessante começar a investir na sua aposentadoria, George"
