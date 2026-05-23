@@ -41,4 +41,4 @@ pip install pandas
 # Execute o script
 python ETL.py
 
-# O arquivo clientes_transformados.csv será gerado automaticamente.
+O arquivo clientes_transformados.csv será gerado automaticamente.
